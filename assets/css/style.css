@@ -171,6 +171,7 @@ footer {
     text-align: center;
     color: #fafafa;
     background-color: #8f8f8f;
+    transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
