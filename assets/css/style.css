@@ -232,7 +232,7 @@ footer {
     padding: 20px;
 }
 
-/* ----------------------------------------Three Reasons */
+/* ---------------------------------------- Three Reasons */
 
 .three-reasons-icon {
     font-size: 26px;
@@ -241,4 +241,38 @@ footer {
 
 .three-reasons-heading {
     margin-bottom: 15px;
+}
+
+/* ---------------------------------------- Personal Info */
+
+.personal-info-item {
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+
+.personal-info-item .key,
+.personal-info-item .value {
+    padding-right: 8px;
+    display: inline-block;
+}
+
+.personal-info-item .key p,
+.personal-info-item .value p {
+    margin: 0;
+}
+
+.personal-info-item .key {
+    width: 30%;
+    margin-right: 21px;
+    padding-top: 2px;
+}
+
+.personal-info-item .key p {
+    font-weight: 700;
+}
+
+.personal-info-item .value {
+    position: relative;
+    width: 60%;
 }
